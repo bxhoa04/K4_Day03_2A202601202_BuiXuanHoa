@@ -2,7 +2,7 @@
 
 - **Team Name**: Nhóm Nguyễn Văn Dương
 - **Team Members**: Nguyễn Văn Dương (Role 1 - Trưởng nhóm) 2A202601400, Nguyễn Văn Tấn (Role 2) 2A202601246, Phạm Tiến Hưng (Role 3) 2A202601800, Phạm Hoàng Anh (Role 4) 2A202601368, Bùi Xuân Hòa (Role 5) 2A202601202
-- **Deployment Date**: 2026-07-28
+- **Deployment Date**: 2026-07-28 
 
 ---
 
