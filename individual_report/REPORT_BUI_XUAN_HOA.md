@@ -1,7 +1,7 @@
 # Individual Report: Lab 3 - Chatbot vs ReAct Agent
 
 - **Student Name**: Bùi Xuân Hòa
-- **Student ID**: 2A202501202
+- **Student ID**: 2A202601202
 - **Date**: 2026-07-28
 
 ---
